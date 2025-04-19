@@ -1,1 +1,4 @@
 Esse é o meu primeiro Commit 
+Essa linha foi adicionada utilizando no prompt de comando do Windows o comando abaixo
+notepad primeiro-commit.txt
+
